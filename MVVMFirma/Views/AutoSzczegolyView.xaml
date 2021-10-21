@@ -1,0 +1,342 @@
+﻿<UserControl x:Class="MVVMFirma.Views.AutoSzczegolyView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVMFirma.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="850" d:DesignWidth="1300">
+    <UserControl.Resources>
+        <ResourceDictionary Source="MainWindowResources.xaml"/>
+    </UserControl.Resources>
+
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <!--opis-->
+            <RowDefinition Height="auto" />
+            <!--wyposazenie-->
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="40" />
+
+        </Grid.ColumnDefinitions>
+
+        <!--prawe menu-->
+        <!--<Border Grid.Column="1" Grid.Row="1"  BorderBrush="Black" Background="#FFEEF5FD" Margin="5,5,2,4" Padding="5" CornerRadius="20" MinWidth="35" MinHeight="50"  >
+            <StackPanel >
+            <Button Content="Sprzedane" />
+            <Button Content="Usuń" />
+            <Button Content="Dodaj Podobne" />
+            </StackPanel>
+        </Border>-->
+        <!--koniec prawego mnu-->
+
+
+
+        <Grid Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+
+            <!--gora nazwa i cena-->
+            <Grid Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <!--<Label Grid.Row="0" Grid.Column="0"  Content="Citroën C4 Grand Picasso II"
+               Style="{StaticResource LabelBig}" />-->
+
+                <TextBox Grid.Row="0" Grid.Column="0"  Text="{Binding MarkaPojazdu, Mode=TwoWay}" 
+               Style="{StaticResource TextBoxStyle}" />
+
+                <Label Grid.Row="0" Grid.Column="2"  Content="45300 PLN"
+               Style="{StaticResource LabelCena}" />
+
+            </Grid>
+            <!--koniec gora nazwa i cena-->
+
+
+
+            <ToolBar Grid.Row="1" Grid.ColumnSpan="3">
+                <ToggleButton Content="Samochody   >" 
+                Style="{StaticResource ToolbarButtonStyle}"/>
+
+                <ToggleButton Content="Osobowe   >" 
+                Style="{StaticResource ToolbarButtonStyle}"/>
+
+                <ToggleButton Content="Citroën   >" 
+                Style="{StaticResource ToolbarButtonStyle}"/>
+
+                <ToggleButton Content="C4 Grand Picasso   >" 
+                Style="{StaticResource ToolbarButtonStyle}"/>
+
+                <ToggleButton Content="Citroën C4 Grand Picasso II (2013-)" 
+                Style="{StaticResource ToolbarButtonStyle}"/>
+            </ToolBar>
+
+            <!--menu pod nawigacja-->
+
+            <Grid Grid.Row="2"  Grid.Column="0"  Grid.ColumnSpan="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+
+
+                <Button  Grid.Row="0"  Grid.Column="0" Content="Drukuj" Style="{StaticResource ButtonStyleRightMenu}" />
+
+                <Button  Grid.Row="0"  Grid.Column="2" Content="Oznacz jako sprzedane" Style="{StaticResource ButtonStyleRightMenu}" />
+                <Button  Grid.Row="0"  Grid.Column="3" Content="Rezerwuj" Style="{StaticResource ButtonStyleRightMenu}" />
+                <Button  Grid.Row="0"  Grid.Column="4" Content="Edytuj" Style="{StaticResource ButtonStyleRightMenu}" />
+                <Button  Grid.Row="0"  Grid.Column="5" Content="Wycofaj" Style="{StaticResource ButtonStyleRightMenu}" />
+                <Button  Grid.Row="0"  Grid.Column="6" Content="Zakończ" Style="{StaticResource ButtonStyleRightMenu}" />
+
+
+            </Grid>
+
+            <!--koniec menu pod nawigacja-->
+
+            <!--<Button  Grid.Row="2"  Grid.Column="0" Content="Drukuj" Style="{StaticResource ButtonEditStyle}" />-->
+
+            <!--<TextBox Grid.Row="2" Grid.Column="1"  Style="{StaticResource TextBoxStyle}" />-->
+
+
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <!--info-->
+                <ColumnDefinition Width="auto" />
+                <!--zdjecie-->
+                <ColumnDefinition Width="auto" />
+                <!--male zdjecia-->
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+            <!--lewa strona-->
+            <Grid Grid.Row="1" Grid.Column="0" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="20" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <Label Grid.Column="0" Grid.Row="0" Content="Lokalizacja:" Style="{StaticResource LabelNormal}" />
+                <Label Grid.Column="1" Grid.Row="0" Content="Warszawa WAW12" Style="{StaticResource LabelNormal}" />
+
+                <Label Grid.Column="0" Grid.Row="1" Content="Rok:" Style="{StaticResource LabelNormal}" />
+                <Label Grid.Column="1" Grid.Row="1" Content="2014" Style="{StaticResource LabelNormal}" />
+
+                <Label Grid.Column="0" Grid.Row="2" Content="Przebieg:" Style="{StaticResource LabelNormal}" />
+                <Label Grid.Column="1" Grid.Row="2" Content="124000 km" Style="{StaticResource LabelNormal}" />
+
+                <Label Grid.Column="0" Grid.Row="3" Content="Pojemność:" Style="{StaticResource LabelNormal}" />
+                <Label Grid.Column="1" Grid.Row="3" Content="2000 cm3" Style="{StaticResource LabelNormal}" />
+
+                <Label Grid.Column="0" Grid.Row="4" Content="Paliwo:" Style="{StaticResource LabelNormal}" />
+                <Label Grid.Column="1" Grid.Row="4" Content="Diesel" Style="{StaticResource LabelNormal}" />
+
+                <Label Grid.Column="0" Grid.Row="5" Content="Moc:" Style="{StaticResource LabelNormal}" />
+                <Label Grid.Column="1" Grid.Row="5" Content="150 KM" Style="{StaticResource LabelNormal}" />
+
+                <Label Grid.Column="0" Grid.Row="6" Content="Kraj pochodzenia:" Style="{StaticResource LabelNormal}" />
+                <Label Grid.Column="1" Grid.Row="6" Content="Polska" Style="{StaticResource LabelNormal}" />
+
+
+            </Grid>
+
+            <!--koniec lewa strona-->
+
+
+
+            <!--srodek-->
+
+            <Image Grid.Column="1" Grid.Row="0"  Source="/MVVMFirma;component/Content/Auta/Citroen/citroen_detal1.jpg" Width="500"  />
+
+            <!--koniec srodek-->
+
+
+            <!--prawa strona-->
+            <Grid Grid.Row="0" Grid.Column="2" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Column="0" Grid.Row="0">
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c2.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c3.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c4.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c5.jpg" Style="{StaticResource ImageMale}" />
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Grid.Row="0">
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c5.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c6.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c7.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c8.jpg" Style="{StaticResource ImageMale}" />
+                </StackPanel>
+
+                <StackPanel Grid.Column="2" Grid.Row="0">
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c7.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c8.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c9.jpg" Style="{StaticResource ImageMale}" />
+                    <Image Source="/MVVMFirma;component/Content/Auta/Citroen/c10.jpg" Style="{StaticResource ImageMale}" />
+                </StackPanel>
+
+
+            </Grid>
+
+            <!--koniec prawa strona-->
+
+
+
+
+        </Grid>
+
+        <Expander Grid.Column="0" Grid.Row="2" Header="Opis pojazdu:" 
+                  Style="{StaticResource Expander10Down}">
+
+            <TextBox Style="{StaticResource TextBoxStyleMargin10}" Height="auto" Text="Samochód w Najbogatszej wersji Shine! &#xD;&#xA;AUTOMAT 150KM Salon Polska 1 Własciciel &#xD;&#xA;F-Vat 23% - podana cena netto &#xD;&#xA;Możliwość leasingu, kredytu na warunkach dealerskich. &#xD;&#xA;Samochód 7 miejsc" TextChanged="TextBox_TextChanged"/>
+
+        </Expander>
+
+        <Expander Grid.Column="0" Grid.Row="3" Header="Wyposażenie"  
+                  Style="{StaticResource Expander10Up }">
+
+
+            <!--auto wyposazenie-->
+
+
+            <Grid Grid.Row="3" Margin="5" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                    <!--<ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>-->
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <CheckBox Grid.Column="0" Grid.Row="0" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="ABS"  Grid.Column="1" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="2" Grid.Row="0" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Alufelgi"  Grid.Column="3" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="4" Grid.Row="0" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Bluetooth"  Grid.Column="5" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="6" Grid.Row="0" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Centralny zamek"  Grid.Column="7" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="8" Grid.Row="0" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Czujnik deszczu"  Grid.Column="9" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="10" Grid.Row="0" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Elektrycznie sterowane lusterka boczne"  Grid.Column="11" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+
+
+
+                <CheckBox Grid.Column="0" Grid.Row="1" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Asystent pasa ruchu"  Grid.Column="1" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="2" Grid.Row="1" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="System nawigacji"  Grid.Column="3" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="4" Grid.Row="1" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Komputer pokładowy"  Grid.Column="5" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="6" Grid.Row="1" Style="{StaticResource CheckBoxStyleCechyAutaNie}"/>
+                <Label Content="Kontrola trakcji"  Grid.Column="7" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="8" Grid.Row="1" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Isofix"  Grid.Column="9" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="10" Grid.Row="1" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Zestaw głośnomówiący"  Grid.Column="11" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+
+
+
+                <CheckBox Grid.Column="0" Grid.Row="2" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Asystent pasa ruchu"  Grid.Column="1" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="2" Grid.Row="2" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="System nawigacji"  Grid.Column="3" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="4" Grid.Row="2" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Komputer pokładowy"  Grid.Column="5" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="6" Grid.Row="2" Style="{StaticResource CheckBoxStyleCechyAutaNie}"/>
+                <Label Content="Kontrola trakcji"  Grid.Column="7" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="8" Grid.Row="2" Style="{StaticResource CheckBoxStyleCechyAutaNie}"/>
+                <Label Content="Isofix"  Grid.Column="9" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+                <CheckBox Grid.Column="10" Grid.Row="2" Style="{StaticResource CheckBoxStyleCechyAutaTak}"/>
+                <Label Content="Zestaw głośnomówiący"  Grid.Column="11" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+
+
+
+            </Grid>
+
+
+
+
+
+
+
+
+            <!-- koniec auto wyposazenie-->
+
+
+
+
+
+        </Expander>
+
+
+    </Grid>
+</UserControl>

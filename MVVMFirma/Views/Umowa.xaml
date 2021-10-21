@@ -1,0 +1,24 @@
+﻿<FlowDocumentReader xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <FlowDocument>
+        <Paragraph>
+            <Bold>To jest umowa Sprzedaży</Bold>
+        </Paragraph>
+        <Paragraph>
+            to jest jakas tresc dokumentu
+        </Paragraph>
+
+        <List>
+            <ListItem>
+                <Paragraph>ListItem 1</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>ListItem 2</Paragraph>
+            </ListItem>
+            <ListItem>
+                <Paragraph>ListItem 3</Paragraph>
+            </ListItem>
+        </List>
+
+    </FlowDocument>
+</FlowDocumentReader>

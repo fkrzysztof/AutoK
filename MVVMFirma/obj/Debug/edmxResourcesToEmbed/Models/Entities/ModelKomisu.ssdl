@@ -1,0 +1,1156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KomisModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AdresyKomisow">
+    <Key>
+      <PropertyRef Name="IdAdresuKomisu" />
+    </Key>
+    <Property Name="IdAdresuKomisu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdKomisu" Type="int" />
+    <Property Name="Kraj" Type="nvarchar" MaxLength="50" />
+    <Property Name="Miasto" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ulica" Type="nvarchar" MaxLength="50" />
+    <Property Name="NrDomu" Type="nchar" MaxLength="10" />
+    <Property Name="NrLokalu" Type="nchar" MaxLength="10" />
+    <Property Name="KodPocztowy" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="AdresyKontrahentow">
+    <Key>
+      <PropertyRef Name="IdAdresuKontrahenta" />
+    </Key>
+    <Property Name="IdAdresuKontrahenta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdKontrahenta" Type="int" />
+    <Property Name="KodPocztowy" Type="nchar" MaxLength="10" />
+    <Property Name="Kraj" Type="nvarchar" MaxLength="50" />
+    <Property Name="Miasto" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ulica" Type="nvarchar" MaxLength="50" />
+    <Property Name="NrDomu" Type="nchar" MaxLength="10" />
+    <Property Name="NrLokalu" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaport" Type="int" />
+  </EntityType>
+  <EntityType Name="AdresyPracownikow">
+    <Key>
+      <PropertyRef Name="IdAdresuPracownika" />
+    </Key>
+    <Property Name="IdAdresuPracownika" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdPracownika" Type="int" />
+    <Property Name="Kraj" Type="nvarchar" MaxLength="50" />
+    <Property Name="Miasto" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ulica" Type="nvarchar" MaxLength="50" />
+    <Property Name="NrDomu" Type="nchar" MaxLength="10" />
+    <Property Name="NrLokalu" Type="nchar" MaxLength="10" />
+    <Property Name="KodPocztowy" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywny" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="DokladnyTypPojazdu">
+    <Key>
+      <PropertyRef Name="IdDokladnegoTypuPojazdu" />
+    </Key>
+    <Property Name="IdDokladnegoTypuPojazdu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdOgolnegoTypu" Type="int" />
+    <Property Name="NazwaDokladnegoTypu" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="Faktury">
+    <Key>
+      <PropertyRef Name="IdFaktury" />
+    </Key>
+    <Property Name="IdFaktury" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DataWystawienia" Type="date" />
+    <Property Name="Miejscowosc" Type="nvarchar" MaxLength="50" />
+    <Property Name="DataSprzedazy" Type="date" />
+    <Property Name="NumerFaktury" Type="int" />
+    <Property Name="IdPracownikaWystawiajacego" Type="int" />
+    <Property Name="IdPracownikaSprawdzajacego" Type="int" />
+    <Property Name="IdNabywca" Type="int" />
+    <Property Name="IdSprzedawca" Type="int" />
+    <Property Name="IdPlatnika" Type="int" />
+    <Property Name="DataPlatnosci" Type="date" />
+    <Property Name="TerminPlatnosci" Type="date" />
+    <Property Name="NumerRachunkuBankowego" Type="nvarchar" MaxLength="50" />
+    <Property Name="Adnotacje" Type="nvarchar(max)" />
+    <Property Name="CzyAktywny" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+    <Property Name="IdRodzajPlatnosci" Type="int" />
+    <Property Name="IdPozycjeFaktury" Type="int" />
+  </EntityType>
+  <EntityType Name="Klimatyzacja">
+    <Key>
+      <PropertyRef Name="IdKlimatyzacji" />
+    </Key>
+    <Property Name="IdKlimatyzacji" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Rodzaj" Type="nvarchar" MaxLength="50" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="Kolory">
+    <Key>
+      <PropertyRef Name="IdKoloru" />
+    </Key>
+    <Property Name="IdKoloru" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NazwaKoloru" Type="nvarchar" MaxLength="50" />
+    <Property Name="Opis" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="Komisy">
+    <Key>
+      <PropertyRef Name="IdKomisu" />
+    </Key>
+    <Property Name="IdKomisu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdAdresuKomisu" Type="int" />
+    <Property Name="OsobaKontaktowa" Type="nvarchar" MaxLength="50" />
+    <Property Name="NrKomisu" Type="char" MaxLength="10" />
+    <Property Name="NazwaKomisu" Type="nvarchar" MaxLength="50" />
+    <Property Name="Telefon1" Type="nchar" MaxLength="10" />
+    <Property Name="Telefon2" Type="nchar" MaxLength="10" />
+    <Property Name="Email1" Type="nchar" MaxLength="10" />
+    <Property Name="Email2" Type="nchar" MaxLength="10" />
+    <Property Name="DataDodania" Type="date" />
+    <Property Name="IdRaportu" Type="int" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="Adnotacje" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Kontrahenci">
+    <Key>
+      <PropertyRef Name="IdKontrahenta" />
+    </Key>
+    <Property Name="IdKontrahenta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Imie" Type="nvarchar" MaxLength="50" />
+    <Property Name="Nazwisko" Type="nvarchar" MaxLength="50" />
+    <Property Name="Nazwa" Type="nvarchar" MaxLength="50" />
+    <Property Name="OsobaKontaktowa" Type="nvarchar" MaxLength="50" />
+    <Property Name="PESEL" Type="nchar" MaxLength="10" />
+    <Property Name="NIP" Type="nchar" MaxLength="10" />
+    <Property Name="REGON" Type="nchar" MaxLength="10" />
+    <Property Name="IdAdresuKontrahenta" Type="int" />
+    <Property Name="Telefon1" Type="nchar" MaxLength="10" />
+    <Property Name="Telefon2" Type="nchar" MaxLength="10" />
+    <Property Name="Email1" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email2" Type="nvarchar" MaxLength="50" />
+    <Property Name="RachunekBankowy" Type="nvarchar" MaxLength="50" />
+    <Property Name="CzyAktywny" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+    <Property Name="Dostawca" Type="bit" />
+    <Property Name="Adnotacje" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Marka">
+    <Key>
+      <PropertyRef Name="IdMarki" />
+    </Key>
+    <Property Name="IdMarki" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nazwa" Type="nvarchar" MaxLength="50" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="ModelPojazdu">
+    <Key>
+      <PropertyRef Name="idModelu" />
+    </Key>
+    <Property Name="idModelu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idMarki" Type="int" />
+    <Property Name="NazwaModelu" Type="nvarchar" MaxLength="50" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="OgolnyTypPojazdu">
+    <Key>
+      <PropertyRef Name="IdOgolnegoTypuPojazdu" />
+    </Key>
+    <Property Name="IdOgolnegoTypuPojazdu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NazwaOgolnegoTypu" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="Pojazdy">
+    <Key>
+      <PropertyRef Name="IdPojazdu" />
+    </Key>
+    <Property Name="IdPojazdu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdMarki" Type="int" />
+    <Property Name="IdModelu" Type="int" />
+    <Property Name="IdDostawcy" Type="int" />
+    <Property Name="RokProdukcji" Type="date" />
+    <Property Name="PierwszaRejestracja" Type="date" />
+    <Property Name="IdKomisu" Type="int" />
+    <Property Name="Pojemnosc" Type="int" />
+    <Property Name="IdWyposazenia" Type="int" />
+    <Property Name="OpisPojazdu" Type="nvarchar(max)" />
+    <Property Name="IdDokladnegoTypu" Type="int" />
+    <Property Name="IdTypuSilnika" Type="int" />
+    <Property Name="Przebieg" Type="char" MaxLength="10" />
+    <Property Name="IdKoloru" Type="int" />
+    <Property Name="NrVIN" Type="nvarchar" MaxLength="50" />
+    <Property Name="Wypadkowy" Type="bit" />
+    <Property Name="DataPrzyjecia" Type="date" />
+    <Property Name="DataWydania" Type="date" />
+    <Property Name="CzyZarezerowany" Type="bit" />
+    <Property Name="NrRejestracyjny" Type="nchar" MaxLength="10" />
+    <Property Name="Pochodzenie" Type="nchar" MaxLength="10" />
+    <Property Name="IdZdjecia" Type="int" />
+    <Property Name="MocKM" Type="int" />
+    <Property Name="SkrzyniaBiegów" Type="nchar" MaxLength="10" />
+    <Property Name="Naped" Type="nchar" MaxLength="10" />
+    <Property Name="LiczbaDrzwi" Type="tinyint" />
+    <Property Name="LiczbaMiejsc" Type="tinyint" />
+    <Property Name="ZarezerwowanyWPolsce" Type="bit" />
+    <Property Name="SerwisowanyWASO" Type="bit" />
+    <Property Name="CzyPozycjaAktualna" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+    <Property Name="IdZmianyCeny" Type="int" />
+    <Property Name="IdKlimatyzacji" Type="int" />
+  </EntityType>
+  <EntityType Name="PozycjeFaktury">
+    <Key>
+      <PropertyRef Name="IdPozycjiFaktury" />
+    </Key>
+    <Property Name="IdPozycjiFaktury" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdFaktury" Type="int" />
+    <Property Name="IdPojazdu" Type="int" />
+    <Property Name="Nazwa" Type="nvarchar(max)" />
+    <Property Name="Cena" Type="money" />
+    <Property Name="IdStawkaVat" Type="int" />
+    <Property Name="ZwolnieniaOdPodatkow" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywny" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+    <Property Name="Rabat" Type="float" />
+  </EntityType>
+  <EntityType Name="Pracownicy">
+    <Key>
+      <PropertyRef Name="IdPracownika" />
+    </Key>
+    <Property Name="IdPracownika" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdKomisu" Type="int" />
+    <Property Name="IdAdresuPracownika" Type="int" />
+    <Property Name="Stanowisko" Type="nchar" MaxLength="10" />
+    <Property Name="Imie" Type="nvarchar" MaxLength="50" />
+    <Property Name="Nazwisko" Type="nvarchar" MaxLength="50" />
+    <Property Name="DataUrodzenia" Type="date" />
+    <Property Name="PESEL" Type="nchar" MaxLength="10" />
+    <Property Name="Telefon1" Type="nchar" MaxLength="10" />
+    <Property Name="Telefon2" Type="nchar" MaxLength="10" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="DataRozpoczeciaPracy" Type="date" />
+    <Property Name="DataZakonczenia" Type="date" />
+    <Property Name="Adnotacje" Type="nvarchar(max)" />
+    <Property Name="CzyAktywny" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="Raport">
+    <Key>
+      <PropertyRef Name="IdRaportu" />
+    </Key>
+    <Property Name="IdRaportu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdPracownikaDodajacego" Type="int" />
+    <Property Name="KiedyDodal" Type="date" />
+    <Property Name="IdPracownikaModyfikujacego" Type="int" />
+    <Property Name="IdPracownikaZatwierdzajacego" Type="int" />
+    <Property Name="IdPracownikaKasujacego" Type="int" />
+    <Property Name="KiedyWykasowal" Type="date" />
+    <Property Name="CzyAktywne" Type="bit" />
+  </EntityType>
+  <EntityType Name="RodzajePlatnosci">
+    <Key>
+      <PropertyRef Name="IdRodzajuPlatnosci" />
+    </Key>
+    <Property Name="IdRodzajuPlatnosci" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nazwa" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="StawkiVat">
+    <Key>
+      <PropertyRef Name="IdStawkiVat" />
+    </Key>
+    <Property Name="IdStawkiVat" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StawkaVat" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="Opis" Type="nvarchar" MaxLength="50" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TypSilnika">
+    <Key>
+      <PropertyRef Name="IdTypuSilnika" />
+    </Key>
+    <Property Name="IdTypuSilnika" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NazwaTypu" Type="nchar" MaxLength="10" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="Wyposazenie">
+    <Key>
+      <PropertyRef Name="IdWyposazenia" />
+    </Key>
+    <Property Name="IdWyposazenia" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ABS" Type="bit" />
+    <Property Name="ElektryczneSzybyPrzenie" Type="bit" />
+    <Property Name="ElektryczneSzybyTylnie" Type="bit" />
+    <Property Name="GniazdoAUX" Type="bit" />
+    <Property Name="ISOFIX" Type="bit" />
+    <Property Name="CD" Type="bit" />
+    <Property Name="GniazdoSD" Type="bit" />
+    <Property Name="USB" Type="bit" />
+    <Property Name="Tempomat" Type="bit" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="Zdjecia">
+    <Key>
+      <PropertyRef Name="idZdjecia" />
+    </Key>
+    <Property Name="idZdjecia" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdPojazdu" Type="int" />
+    <Property Name="URL" Type="nvarchar" MaxLength="50" />
+    <Property Name="CzyAktywne" Type="bit" />
+    <Property Name="IdRaportu" Type="int" />
+  </EntityType>
+  <EntityType Name="ZmianyCeny">
+    <Key>
+      <PropertyRef Name="IdZmianyCeny" />
+    </Key>
+    <Property Name="IdZmianyCeny" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdPojazdu" Type="int" />
+    <Property Name="Cena" Type="money" />
+    <Property Name="DataGodzinaObowiazywaniaOd" Type="date" />
+    <Property Name="DataGodzinaObowiazywaniaDo" Type="nchar" MaxLength="10" />
+    <Property Name="IdRaportu" Type="int" />
+    <Property Name="CzyAktywne" Type="bit" />
+  </EntityType>
+  <Association Name="FK_AdresyKomisow_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="AdresyKomisow" Type="Self.AdresyKomisow" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="AdresyKomisow">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AdresyKontrahentow_Kontrahenci">
+    <End Role="Kontrahenci" Type="Self.Kontrahenci" Multiplicity="0..1" />
+    <End Role="AdresyKontrahentow" Type="Self.AdresyKontrahentow" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kontrahenci">
+        <PropertyRef Name="IdKontrahenta" />
+      </Principal>
+      <Dependent Role="AdresyKontrahentow">
+        <PropertyRef Name="IdKontrahenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AdresyKontrahentow_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="AdresyKontrahentow" Type="Self.AdresyKontrahentow" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="AdresyKontrahentow">
+        <PropertyRef Name="IdRaport" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AdresyPracownikow_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="AdresyPracownikow" Type="Self.AdresyPracownikow" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="AdresyPracownikow">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DokladnyTypPojazdu_OgolnyTypPojazdu">
+    <End Role="OgolnyTypPojazdu" Type="Self.OgolnyTypPojazdu" Multiplicity="0..1" />
+    <End Role="DokladnyTypPojazdu" Type="Self.DokladnyTypPojazdu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OgolnyTypPojazdu">
+        <PropertyRef Name="IdOgolnegoTypuPojazdu" />
+      </Principal>
+      <Dependent Role="DokladnyTypPojazdu">
+        <PropertyRef Name="IdOgolnegoTypu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DokladnyTypPojazdu_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="DokladnyTypPojazdu" Type="Self.DokladnyTypPojazdu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="DokladnyTypPojazdu">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_Kontrahenci">
+    <End Role="Kontrahenci" Type="Self.Kontrahenci" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kontrahenci">
+        <PropertyRef Name="IdKontrahenta" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdNabywca" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_Kontrahenci1">
+    <End Role="Kontrahenci" Type="Self.Kontrahenci" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kontrahenci">
+        <PropertyRef Name="IdKontrahenta" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdSprzedawca" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_Kontrahenci2">
+    <End Role="Kontrahenci" Type="Self.Kontrahenci" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kontrahenci">
+        <PropertyRef Name="IdKontrahenta" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdPlatnika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_PozycjeFaktury">
+    <End Role="PozycjeFaktury" Type="Self.PozycjeFaktury" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PozycjeFaktury">
+        <PropertyRef Name="IdPozycjiFaktury" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdPozycjeFaktury" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_PozycjeFaktury1">
+    <End Role="PozycjeFaktury" Type="Self.PozycjeFaktury" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PozycjeFaktury">
+        <PropertyRef Name="IdPozycjiFaktury" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdPozycjeFaktury" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_PozycjeFaktury2">
+    <End Role="PozycjeFaktury" Type="Self.PozycjeFaktury" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PozycjeFaktury">
+        <PropertyRef Name="IdPozycjiFaktury" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdPozycjeFaktury" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_Pracownicy">
+    <End Role="Pracownicy" Type="Self.Pracownicy" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pracownicy">
+        <PropertyRef Name="IdPracownika" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdPracownikaWystawiajacego" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_Pracownicy1">
+    <End Role="Pracownicy" Type="Self.Pracownicy" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pracownicy">
+        <PropertyRef Name="IdPracownika" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdPracownikaSprawdzajacego" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Faktury_RodzajePlatnosci">
+    <End Role="RodzajePlatnosci" Type="Self.RodzajePlatnosci" Multiplicity="0..1" />
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RodzajePlatnosci">
+        <PropertyRef Name="IdRodzajuPlatnosci" />
+      </Principal>
+      <Dependent Role="Faktury">
+        <PropertyRef Name="IdRodzajPlatnosci" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kolory_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Kolory" Type="Self.Kolory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Kolory">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komisy_AdresyKomisow">
+    <End Role="AdresyKomisow" Type="Self.AdresyKomisow" Multiplicity="0..1" />
+    <End Role="Komisy" Type="Self.Komisy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AdresyKomisow">
+        <PropertyRef Name="IdAdresuKomisu" />
+      </Principal>
+      <Dependent Role="Komisy">
+        <PropertyRef Name="IdAdresuKomisu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komisy_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Komisy" Type="Self.Komisy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Komisy">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kontrahenci_AdresyKontrahentow">
+    <End Role="AdresyKontrahentow" Type="Self.AdresyKontrahentow" Multiplicity="0..1" />
+    <End Role="Kontrahenci" Type="Self.Kontrahenci" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AdresyKontrahentow">
+        <PropertyRef Name="IdAdresuKontrahenta" />
+      </Principal>
+      <Dependent Role="Kontrahenci">
+        <PropertyRef Name="IdAdresuKontrahenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kontrahenci_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Kontrahenci" Type="Self.Kontrahenci" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Kontrahenci">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Marka_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Marka" Type="Self.Marka" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Marka">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Model_Marka">
+    <End Role="Marka" Type="Self.Marka" Multiplicity="0..1" />
+    <End Role="ModelPojazdu" Type="Self.ModelPojazdu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Marka">
+        <PropertyRef Name="IdMarki" />
+      </Principal>
+      <Dependent Role="ModelPojazdu">
+        <PropertyRef Name="idMarki" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Model_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="ModelPojazdu" Type="Self.ModelPojazdu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="ModelPojazdu">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OgolnyTypPojazdu_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="OgolnyTypPojazdu" Type="Self.OgolnyTypPojazdu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="OgolnyTypPojazdu">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_DokladnyTypPojazdu">
+    <End Role="DokladnyTypPojazdu" Type="Self.DokladnyTypPojazdu" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DokladnyTypPojazdu">
+        <PropertyRef Name="IdDokladnegoTypuPojazdu" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdDokladnegoTypu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Klimatyzacja">
+    <End Role="Klimatyzacja" Type="Self.Klimatyzacja" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Klimatyzacja">
+        <PropertyRef Name="IdKlimatyzacji" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdKlimatyzacji" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Kolory">
+    <End Role="Kolory" Type="Self.Kolory" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kolory">
+        <PropertyRef Name="IdKoloru" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdKomisu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Kolory1">
+    <End Role="Kolory" Type="Self.Kolory" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kolory">
+        <PropertyRef Name="IdKoloru" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdKoloru" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Komisy">
+    <End Role="Komisy" Type="Self.Komisy" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Komisy">
+        <PropertyRef Name="IdKomisu" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdKomisu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Kontrahenci">
+    <End Role="Kontrahenci" Type="Self.Kontrahenci" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kontrahenci">
+        <PropertyRef Name="IdKontrahenta" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdDostawcy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Marka">
+    <End Role="Marka" Type="Self.Marka" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Marka">
+        <PropertyRef Name="IdMarki" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdMarki" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Model">
+    <End Role="ModelPojazdu" Type="Self.ModelPojazdu" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ModelPojazdu">
+        <PropertyRef Name="idModelu" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdModelu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_TypSilnika">
+    <End Role="TypSilnika" Type="Self.TypSilnika" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypSilnika">
+        <PropertyRef Name="IdTypuSilnika" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdTypuSilnika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Wyposazenie">
+    <End Role="Wyposazenie" Type="Self.Wyposazenie" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Wyposazenie">
+        <PropertyRef Name="IdWyposazenia" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdWyposazenia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_Zdjecia">
+    <End Role="Zdjecia" Type="Self.Zdjecia" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Zdjecia">
+        <PropertyRef Name="idZdjecia" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdZdjecia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pojazdy_ZmianyCeny">
+    <End Role="ZmianyCeny" Type="Self.ZmianyCeny" Multiplicity="0..1" />
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ZmianyCeny">
+        <PropertyRef Name="IdZmianyCeny" />
+      </Principal>
+      <Dependent Role="Pojazdy">
+        <PropertyRef Name="IdZmianyCeny" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PozycjeFaktury_Faktury">
+    <End Role="Faktury" Type="Self.Faktury" Multiplicity="0..1" />
+    <End Role="PozycjeFaktury" Type="Self.PozycjeFaktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Faktury">
+        <PropertyRef Name="IdFaktury" />
+      </Principal>
+      <Dependent Role="PozycjeFaktury">
+        <PropertyRef Name="IdFaktury" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PozycjeFaktury_Pojazdy">
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="0..1" />
+    <End Role="PozycjeFaktury" Type="Self.PozycjeFaktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pojazdy">
+        <PropertyRef Name="IdPojazdu" />
+      </Principal>
+      <Dependent Role="PozycjeFaktury">
+        <PropertyRef Name="IdPojazdu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PozycjeFaktury_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="PozycjeFaktury" Type="Self.PozycjeFaktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="PozycjeFaktury">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PozycjeFaktury_StawkiVat">
+    <End Role="StawkiVat" Type="Self.StawkiVat" Multiplicity="0..1" />
+    <End Role="PozycjeFaktury" Type="Self.PozycjeFaktury" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StawkiVat">
+        <PropertyRef Name="IdStawkiVat" />
+      </Principal>
+      <Dependent Role="PozycjeFaktury">
+        <PropertyRef Name="IdStawkaVat" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pracownicy_AdresyPracownikow">
+    <End Role="AdresyPracownikow" Type="Self.AdresyPracownikow" Multiplicity="0..1" />
+    <End Role="Pracownicy" Type="Self.Pracownicy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AdresyPracownikow">
+        <PropertyRef Name="IdAdresuPracownika" />
+      </Principal>
+      <Dependent Role="Pracownicy">
+        <PropertyRef Name="IdAdresuPracownika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pracownicy_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Pracownicy" Type="Self.Pracownicy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Pracownicy">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StawkiVat_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="StawkiVat" Type="Self.StawkiVat" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="StawkiVat">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TypSilnika_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="TypSilnika" Type="Self.TypSilnika" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="TypSilnika">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Wyposazenie_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Wyposazenie" Type="Self.Wyposazenie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Wyposazenie">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Zdjecia_Pojazdy">
+    <End Role="Pojazdy" Type="Self.Pojazdy" Multiplicity="0..1" />
+    <End Role="Zdjecia" Type="Self.Zdjecia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pojazdy">
+        <PropertyRef Name="IdPojazdu" />
+      </Principal>
+      <Dependent Role="Zdjecia">
+        <PropertyRef Name="IdPojazdu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Zdjecia_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="Zdjecia" Type="Self.Zdjecia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="Zdjecia">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ZmianyCeny_Raport">
+    <End Role="Raport" Type="Self.Raport" Multiplicity="0..1" />
+    <End Role="ZmianyCeny" Type="Self.ZmianyCeny" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Raport">
+        <PropertyRef Name="IdRaportu" />
+      </Principal>
+      <Dependent Role="ZmianyCeny">
+        <PropertyRef Name="IdRaportu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KomisModelStoreContainer">
+    <EntitySet Name="AdresyKomisow" EntityType="Self.AdresyKomisow" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AdresyKontrahentow" EntityType="Self.AdresyKontrahentow" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AdresyPracownikow" EntityType="Self.AdresyPracownikow" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DokladnyTypPojazdu" EntityType="Self.DokladnyTypPojazdu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Faktury" EntityType="Self.Faktury" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Klimatyzacja" EntityType="Self.Klimatyzacja" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kolory" EntityType="Self.Kolory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Komisy" EntityType="Self.Komisy" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kontrahenci" EntityType="Self.Kontrahenci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Marka" EntityType="Self.Marka" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ModelPojazdu" EntityType="Self.ModelPojazdu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OgolnyTypPojazdu" EntityType="Self.OgolnyTypPojazdu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pojazdy" EntityType="Self.Pojazdy" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PozycjeFaktury" EntityType="Self.PozycjeFaktury" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pracownicy" EntityType="Self.Pracownicy" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Raport" EntityType="Self.Raport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RodzajePlatnosci" EntityType="Self.RodzajePlatnosci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StawkiVat" EntityType="Self.StawkiVat" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TypSilnika" EntityType="Self.TypSilnika" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Wyposazenie" EntityType="Self.Wyposazenie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Zdjecia" EntityType="Self.Zdjecia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ZmianyCeny" EntityType="Self.ZmianyCeny" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_AdresyKomisow_Raport" Association="Self.FK_AdresyKomisow_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="AdresyKomisow" EntitySet="AdresyKomisow" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AdresyKontrahentow_Kontrahenci" Association="Self.FK_AdresyKontrahentow_Kontrahenci">
+      <End Role="Kontrahenci" EntitySet="Kontrahenci" />
+      <End Role="AdresyKontrahentow" EntitySet="AdresyKontrahentow" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AdresyKontrahentow_Raport" Association="Self.FK_AdresyKontrahentow_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="AdresyKontrahentow" EntitySet="AdresyKontrahentow" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AdresyPracownikow_Raport" Association="Self.FK_AdresyPracownikow_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="AdresyPracownikow" EntitySet="AdresyPracownikow" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DokladnyTypPojazdu_OgolnyTypPojazdu" Association="Self.FK_DokladnyTypPojazdu_OgolnyTypPojazdu">
+      <End Role="OgolnyTypPojazdu" EntitySet="OgolnyTypPojazdu" />
+      <End Role="DokladnyTypPojazdu" EntitySet="DokladnyTypPojazdu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DokladnyTypPojazdu_Raport" Association="Self.FK_DokladnyTypPojazdu_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="DokladnyTypPojazdu" EntitySet="DokladnyTypPojazdu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_Kontrahenci" Association="Self.FK_Faktury_Kontrahenci">
+      <End Role="Kontrahenci" EntitySet="Kontrahenci" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_Kontrahenci1" Association="Self.FK_Faktury_Kontrahenci1">
+      <End Role="Kontrahenci" EntitySet="Kontrahenci" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_Kontrahenci2" Association="Self.FK_Faktury_Kontrahenci2">
+      <End Role="Kontrahenci" EntitySet="Kontrahenci" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_PozycjeFaktury" Association="Self.FK_Faktury_PozycjeFaktury">
+      <End Role="PozycjeFaktury" EntitySet="PozycjeFaktury" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_PozycjeFaktury1" Association="Self.FK_Faktury_PozycjeFaktury1">
+      <End Role="PozycjeFaktury" EntitySet="PozycjeFaktury" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_PozycjeFaktury2" Association="Self.FK_Faktury_PozycjeFaktury2">
+      <End Role="PozycjeFaktury" EntitySet="PozycjeFaktury" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_Pracownicy" Association="Self.FK_Faktury_Pracownicy">
+      <End Role="Pracownicy" EntitySet="Pracownicy" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_Pracownicy1" Association="Self.FK_Faktury_Pracownicy1">
+      <End Role="Pracownicy" EntitySet="Pracownicy" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_Raport" Association="Self.FK_Faktury_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Faktury_RodzajePlatnosci" Association="Self.FK_Faktury_RodzajePlatnosci">
+      <End Role="RodzajePlatnosci" EntitySet="RodzajePlatnosci" />
+      <End Role="Faktury" EntitySet="Faktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kolory_Raport" Association="Self.FK_Kolory_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Kolory" EntitySet="Kolory" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komisy_AdresyKomisow" Association="Self.FK_Komisy_AdresyKomisow">
+      <End Role="AdresyKomisow" EntitySet="AdresyKomisow" />
+      <End Role="Komisy" EntitySet="Komisy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komisy_Raport" Association="Self.FK_Komisy_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Komisy" EntitySet="Komisy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kontrahenci_AdresyKontrahentow" Association="Self.FK_Kontrahenci_AdresyKontrahentow">
+      <End Role="AdresyKontrahentow" EntitySet="AdresyKontrahentow" />
+      <End Role="Kontrahenci" EntitySet="Kontrahenci" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kontrahenci_Raport" Association="Self.FK_Kontrahenci_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Kontrahenci" EntitySet="Kontrahenci" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Marka_Raport" Association="Self.FK_Marka_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Marka" EntitySet="Marka" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Model_Marka" Association="Self.FK_Model_Marka">
+      <End Role="Marka" EntitySet="Marka" />
+      <End Role="ModelPojazdu" EntitySet="ModelPojazdu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Model_Raport" Association="Self.FK_Model_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="ModelPojazdu" EntitySet="ModelPojazdu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OgolnyTypPojazdu_Raport" Association="Self.FK_OgolnyTypPojazdu_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="OgolnyTypPojazdu" EntitySet="OgolnyTypPojazdu" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_DokladnyTypPojazdu" Association="Self.FK_Pojazdy_DokladnyTypPojazdu">
+      <End Role="DokladnyTypPojazdu" EntitySet="DokladnyTypPojazdu" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Klimatyzacja" Association="Self.FK_Pojazdy_Klimatyzacja">
+      <End Role="Klimatyzacja" EntitySet="Klimatyzacja" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Kolory" Association="Self.FK_Pojazdy_Kolory">
+      <End Role="Kolory" EntitySet="Kolory" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Kolory1" Association="Self.FK_Pojazdy_Kolory1">
+      <End Role="Kolory" EntitySet="Kolory" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Komisy" Association="Self.FK_Pojazdy_Komisy">
+      <End Role="Komisy" EntitySet="Komisy" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Kontrahenci" Association="Self.FK_Pojazdy_Kontrahenci">
+      <End Role="Kontrahenci" EntitySet="Kontrahenci" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Marka" Association="Self.FK_Pojazdy_Marka">
+      <End Role="Marka" EntitySet="Marka" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Model" Association="Self.FK_Pojazdy_Model">
+      <End Role="ModelPojazdu" EntitySet="ModelPojazdu" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Raport" Association="Self.FK_Pojazdy_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_TypSilnika" Association="Self.FK_Pojazdy_TypSilnika">
+      <End Role="TypSilnika" EntitySet="TypSilnika" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Wyposazenie" Association="Self.FK_Pojazdy_Wyposazenie">
+      <End Role="Wyposazenie" EntitySet="Wyposazenie" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_Zdjecia" Association="Self.FK_Pojazdy_Zdjecia">
+      <End Role="Zdjecia" EntitySet="Zdjecia" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pojazdy_ZmianyCeny" Association="Self.FK_Pojazdy_ZmianyCeny">
+      <End Role="ZmianyCeny" EntitySet="ZmianyCeny" />
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PozycjeFaktury_Faktury" Association="Self.FK_PozycjeFaktury_Faktury">
+      <End Role="Faktury" EntitySet="Faktury" />
+      <End Role="PozycjeFaktury" EntitySet="PozycjeFaktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PozycjeFaktury_Pojazdy" Association="Self.FK_PozycjeFaktury_Pojazdy">
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+      <End Role="PozycjeFaktury" EntitySet="PozycjeFaktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PozycjeFaktury_Raport" Association="Self.FK_PozycjeFaktury_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="PozycjeFaktury" EntitySet="PozycjeFaktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PozycjeFaktury_StawkiVat" Association="Self.FK_PozycjeFaktury_StawkiVat">
+      <End Role="StawkiVat" EntitySet="StawkiVat" />
+      <End Role="PozycjeFaktury" EntitySet="PozycjeFaktury" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pracownicy_AdresyPracownikow" Association="Self.FK_Pracownicy_AdresyPracownikow">
+      <End Role="AdresyPracownikow" EntitySet="AdresyPracownikow" />
+      <End Role="Pracownicy" EntitySet="Pracownicy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pracownicy_Raport" Association="Self.FK_Pracownicy_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Pracownicy" EntitySet="Pracownicy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StawkiVat_Raport" Association="Self.FK_StawkiVat_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="StawkiVat" EntitySet="StawkiVat" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TypSilnika_Raport" Association="Self.FK_TypSilnika_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="TypSilnika" EntitySet="TypSilnika" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Wyposazenie_Raport" Association="Self.FK_Wyposazenie_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Wyposazenie" EntitySet="Wyposazenie" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Zdjecia_Pojazdy" Association="Self.FK_Zdjecia_Pojazdy">
+      <End Role="Pojazdy" EntitySet="Pojazdy" />
+      <End Role="Zdjecia" EntitySet="Zdjecia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Zdjecia_Raport" Association="Self.FK_Zdjecia_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="Zdjecia" EntitySet="Zdjecia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ZmianyCeny_Raport" Association="Self.FK_ZmianyCeny_Raport">
+      <End Role="Raport" EntitySet="Raport" />
+      <End Role="ZmianyCeny" EntitySet="ZmianyCeny" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

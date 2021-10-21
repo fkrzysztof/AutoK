@@ -1,0 +1,797 @@
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\akornatka\Desktop\TIU\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\odkornatki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\statystykiView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\statystykiView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Krzysztof\Dysk Google\wsb\semestr 4\TIU\Krzysztof-Projekt\projekt1_2\poprawki\MVVMFirma\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\App.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\App.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Dalsze prace Komis\kopia\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVMFirma\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-dWwB+\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.csprojResolveAssemblyReference.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-Abstrakcyjnie-wys-wid+dodRe-abst\MVVMFirma\obj\Debug\MVVMFirma.csprojAssemblyReference.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\test.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\test.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\NowaFakturaView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\Views\NowaFakturaView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\obj\Debug\MVVMFirma.csprojAssemblyReference.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\CommonServiceLocator.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\CommonServiceLocator.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DodajKontaktView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\NowaFakturaView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\test.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DodajKontaktView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\NowaFakturaView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\test.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\MVVMFirma.csprojAssemblyReference.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\KomisyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\KomisyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-1-2\MVVMFirma\obj\Debug\Views\WszystkieKomisyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowaFakturaView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\test.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieKomisyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\CommonServiceLocator.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowaFakturaView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\test.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieKomisyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyKomisView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyKomisView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyPojazdView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyPojazdView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKontrahenciView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKontrahenciView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkiePracownicyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkiePracownicyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKlienciView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKlienciView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyDostawcyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyDostawcyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RaportSprzedazyView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RaportSprzedazyView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajKontaktView1.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajKontaktView1.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PojazdView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PojazdView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.csprojAssemblyReference.cache
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\Umowa.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\KlientAutoView.g.cs
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\KlientAutoView.baml
+C:\Users\Ja\Dysk Google\wsb\III semestr 5\Programowanie Desktopowych Aplikacji Biznesowych\Komis\Dalsze prace Komis\MVVM-Komis-4-2\MVVMFirma\obj\Debug\App.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\MVVMFirma.exe.config
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\MVVMFirma.exe
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\MVVMFirma.pdb
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\CommonServiceLocator.dll
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.dll
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.xml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.csprojAssemblyReference.cache
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\Umowa.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AdresyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\BudowlaneView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\CiezaroweView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajKontaktView1.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajOsoboweView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DostawczeView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\FrameAutoView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\KlientAutoView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MainWindow.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MotocykleView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowaFakturaView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyKomisView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyPojazdView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyTowarView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\OsoboweView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PojazdView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PrzyczepyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RaportSprzedazyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RolniczeView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\StatystykiView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\test.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyDostawcyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKlienciView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKontrahenciView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieKomisyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkiePracownicyView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieTowayView.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\App.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma_Content.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.cache
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma_MarkupCompile.lref
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\App.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Themes\Generic.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AdresyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\AutoSzczegolyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\BudowlaneView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\CiezaroweView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajKontaktView1.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajLokalizacjeView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DodajOsoboweView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\DostawczeView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\FrameAutoView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\KlientAutoView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MainWindow.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MainWindowResources.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\MotocykleView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowaFakturaView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyKomisView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyPojazdView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\NowyTowarView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\OsoboweView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PojazdView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\PrzyczepyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RaportSprzedazyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\RolniczeView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\StatystykiView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\test.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyDostawcyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKlienciView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszyscyKontrahenciView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieFakturyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieKomisyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkiePracownicyView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\Views\WszystkieTowayView.baml
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.g.resources
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.Properties.Resources.resources
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.GenerateResource.cache
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.csproj.CopyComplete
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.exe
+C:\Users\krzys\Documents\Programowanie\MVVM-Komis-4-2\MVVMFirma\obj\Debug\MVVMFirma.pdb

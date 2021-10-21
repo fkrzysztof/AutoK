@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ba95e4d4fab142088b9ed207c8f0e111" Name="Diagram1">
+        <EntityTypeShape EntityType="KomisModel.AdresyKomisow" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.AdresyKontrahentow" Width="1.5" PointX="6" PointY="26.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.AdresyPracownikow" Width="1.5" PointX="3" PointY="20.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.DokladnyTypPojazdu" Width="1.5" PointX="5.25" PointY="30.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Faktury" Width="1.5" PointX="15" PointY="23.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Klimatyzacja" Width="1.5" PointX="8.25" PointY="34.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Kolory" Width="1.5" PointX="3" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Komisy" Width="1.5" PointX="5.25" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Kontrahenci" Width="1.5" PointX="11.25" PointY="23" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Marka" Width="1.5" PointX="3" PointY="31.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.ModelPojazdu" Width="1.5" PointX="8.25" PointY="30.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.OgolnyTypPojazdu" Width="1.5" PointX="3" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Pojazdy" Width="1.5" PointX="10.5" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.PozycjeFaktury" Width="1.5" PointX="12.75" PointY="30.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Pracownicy" Width="1.5" PointX="8.25" PointY="23.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Raport" Width="1.5" PointX="0.75" PointY="24.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.RodzajePlatnosci" Width="1.5" PointX="12.75" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.StawkiVat" Width="1.5" PointX="3" PointY="37.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.TypSilnika" Width="1.5" PointX="3" PointY="40.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Wyposazenie" Width="1.5" PointX="3" PointY="43.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.Zdjecia" Width="1.5" PointX="15.75" PointY="31.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KomisModel.ZmianyCeny" Width="1.5" PointX="3" PointY="48.125" IsExpanded="true" />
+        <AssociationConnector Association="KomisModel.FK_AdresyKomisow_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Komisy_AdresyKomisow" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_AdresyKontrahentow_Kontrahenci" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_AdresyKontrahentow_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Kontrahenci_AdresyKontrahentow" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_AdresyPracownikow_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pracownicy_AdresyPracownikow" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_DokladnyTypPojazdu_OgolnyTypPojazdu" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_DokladnyTypPojazdu_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_DokladnyTypPojazdu" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_Kontrahenci" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_Kontrahenci1" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_Kontrahenci2" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_PozycjeFaktury" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_PozycjeFaktury1" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_PozycjeFaktury2" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_Pracownicy" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_Pracownicy1" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Faktury_RodzajePlatnosci" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_PozycjeFaktury_Faktury" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Klimatyzacja" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Kolory_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Kolory" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Kolory1" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Komisy_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Komisy" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Kontrahenci_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Kontrahenci" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Marka_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Model_Marka" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Marka" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Model_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Model" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_OgolnyTypPojazdu_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_TypSilnika" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Wyposazenie" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_Zdjecia" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pojazdy_ZmianyCeny" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_PozycjeFaktury_Pojazdy" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Zdjecia_Pojazdy" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_PozycjeFaktury_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_PozycjeFaktury_StawkiVat" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Pracownicy_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_StawkiVat_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_TypSilnika_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Wyposazenie_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_Zdjecia_Raport" ManuallyRouted="false" />
+        <AssociationConnector Association="KomisModel.FK_ZmianyCeny_Raport" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

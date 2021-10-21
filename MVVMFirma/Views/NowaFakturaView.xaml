@@ -1,0 +1,142 @@
+﻿<local:JedenViewBase x:Class="MVVMFirma.Views.NowaFakturaView"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:local="clr-namespace:MVVMFirma.Views"
+mc:Ignorable="d"
+d:DesignHeight="400" d:DesignWidth="1400">
+    <UserControl.Resources>
+        <ResourceDictionary Source="MainWindowResources.xaml"/>
+    </UserControl.Resources>
+    
+    <Grid Margin="20,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="200"/>            
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="150"/>            
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <!--<Label Grid.Column="0" Grid.Row="0" Content="Numer" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="1" Grid.Row="0" Margin="0,4,0,4" Width="150" HorizontalAlignment="Left" Text="{Binding Path=Numer, UpdateSourceTrigger=PropertyChanged}"/>-->
+     
+        <Label Grid.Column="0" Grid.Row="0" Content="Ogólne:" Margin="0,4,0,4"/>
+      
+        <Label Grid.Column="0" Grid.Row="1" Content="Numer Faktury" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Height="25" Width="170" HorizontalAlignment="Left"
+                                 Text="{Binding Path=NumerFaktury, UpdateSourceTrigger=PropertyChanged}"/>
+        
+        <!--<Label Grid.Column="0" Grid.Row="2" Content="DataWystawienia" Margin="0,4,0,4"/>
+        <DatePicker Grid.Column="1" Grid.Row="2" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" 
+                    SelectedDate="{Binding Path=DataWystawienia, UpdateSourceTrigger=PropertyChanged}"/>-->
+
+        <Label Grid.Column="3" Grid.Row="3" Content="DataPlatnosci" Margin="0,4,0,4"/>
+        <DatePicker Grid.Column="5" Grid.Row="3" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" SelectedDate="{Binding Path=DataPlatnosci, UpdateSourceTrigger=PropertyChanged}" />
+
+
+        <Label Grid.Column="0" Grid.Row="2" Content="Kontrahent" Margin="0,4,0,4"/>
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="170"/>
+                <ColumnDefinition Width="30"/>
+            </Grid.ColumnDefinitions>
+            <TextBox Grid.Column="0" Grid.Row="0" Margin="0,4,0,4" Height="25" Width="170" HorizontalAlignment="Left" Text="{Binding Path=KontrahentDane, UpdateSourceTrigger=PropertyChanged}"  />
+            <Button  Grid.Column="1" Grid.Row="0" Margin="0,2,0,2" Width="25" Height="25" Command="{Binding ShowKontrahenci}" >
+                <Image Source="/MVVMFirma;component/Content/Icons/link_sm.png" Width="14" Height="14" />
+            </Button>
+        </Grid>
+
+        <Label Grid.Column="0" Grid.Row="3" Content="Rodzaj Płatnosci" Margin="0,4,0,4"/>
+        <ComboBox Grid.Column="1" Grid.Row="3" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" 
+                  ItemsSource="{Binding RodzajPlatnosciComboBoxItems}" 
+                  DisplayMemberPath="Value" 
+                  SelectedValuePath="Key" 
+                  SelectedValue="{Binding Path=IdRodzajPlatnosci,Mode=TwoWay}"/>
+
+
+        <Label Grid.Column="0" Grid.Row="4" Content="Wystawił" Margin="0,4,0,4"/>
+        <ComboBox Grid.Column="1" Grid.Row="4" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" 
+                  ItemsSource="{Binding PracownikWystawilComboBoxItems}" 
+                  DisplayMemberPath="Value" 
+                  SelectedValuePath="Key" 
+                  SelectedValue="{Binding Path=IdPracownikaWystawiajacego,Mode=TwoWay}"/>
+
+        <Label Grid.Column="0" Grid.Row="5" Content="Zatwierdził" Margin="0,4,0,4"/>
+        <ComboBox Grid.Column="1" Grid.Row="5" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" 
+                  ItemsSource="{Binding PracownikZatwierdzilComboBoxItems}" 
+                  DisplayMemberPath="Value" 
+                  SelectedValuePath="Key" 
+                  SelectedValue="{Binding Path=IdPracownikaSprawdzajacego,Mode=TwoWay}"/>
+
+
+
+        <Label Grid.Column="0" Grid.Row="6" Content="Miejscowosc" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="1" Grid.Row="6" Height="25" Width="170" HorizontalAlignment="Left"
+                                 Text="{Binding Path=Miejscowosc, UpdateSourceTrigger=PropertyChanged}"/>
+      
+        
+        <!--<Label Grid.Column="0" Grid.Row="7" Content="DataPlatnosci" Margin="0,4,0,4"/>
+        <DatePicker Grid.Column="1" Grid.Row="7" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" SelectedDate="{Binding Path=DataPlatnosci, UpdateSourceTrigger=PropertyChanged}" />-->
+        
+        <Label Grid.Column="0" Grid.Row="7" Content="Nr Rachunku" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="1" Grid.Row="7" Height="25" Width="170" HorizontalAlignment="Left"
+                                 Text="{Binding Path=NumerRachunkuBankowego, UpdateSourceTrigger=PropertyChanged}"/>
+        
+        <Label Grid.Column="3" Grid.Row="0" Content="Daty:" Margin="0,4,0,4"/>
+
+        <Label Grid.Column="3" Grid.Row="1" Content="TerminPlatnosci" Margin="0,4,0,4"/>
+        <DatePicker Grid.Column="5" Grid.Row="1" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" SelectedDate="{Binding Path=TerminPlatnosci, UpdateSourceTrigger=PropertyChanged}" />
+
+        <Label Grid.Column="3" Grid.Row="2" Content="DataSprzedazy" Margin="0,4,0,4"/>
+        <DatePicker Grid.Column="5" Grid.Row="2" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" SelectedDate="{Binding Path=DataSprzedazy, UpdateSourceTrigger=PropertyChanged}" />
+
+
+
+        <!--<Label Grid.Column="3" Grid.Row="3" Content="DataPlatnosci" Margin="0,4,0,4"/>
+        <DatePicker Grid.Column="5" Grid.Row="3" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" SelectedDate="{Binding Path=DataPlatnosci, UpdateSourceTrigger=PropertyChanged}" />-->
+
+
+
+
+        <Label Grid.Column="3" Grid.Row="4" Content="DataWystawienia" Margin="0,4,0,4"/>
+        <DatePicker Grid.Column="5" Grid.Row="4" Margin="0,4,0,4" Width="170" HorizontalAlignment="Left" 
+                    SelectedDate="{Binding Path=DataWystawienia, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Label Grid.Column="3" Grid.Row="5" Content="Adnotacje:" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="3" Grid.Row="6" Grid.RowSpan="2" Grid.ColumnSpan="3" Height="65" Width="310" HorizontalAlignment="Left" VerticalAlignment="Top"
+                                 Text="{Binding Path=Adnotacje, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Label Grid.Column="7" Grid.Row="0" Content="Płatności:" Margin="0,4,0,4"/>
+
+        <Label Grid.Column="7" Grid.Row="1" Content="Forma Płatności:" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="9" Grid.Row="1" Height="25" Width="170" HorizontalAlignment="Left" />
+     
+        <Label Grid.Column="7" Grid.Row="2" Content="Brutto:" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="9" Grid.Row="2" Height="25" Width="170" HorizontalAlignment="Left" />
+     
+        <Label Grid.Column="7" Grid.Row="3" Content="Zapłata:" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="9" Grid.Row="3" Height="25" Width="170" HorizontalAlignment="Left" />
+     
+        <Label Grid.Column="7" Grid.Row="4" Content="Pozostało:" Margin="0,4,0,4"/>
+        <TextBox Grid.Column="9" Grid.Row="4" Height="25" Width="170" HorizontalAlignment="Left" />
+
+
+    </Grid>
+
+</local:JedenViewBase>

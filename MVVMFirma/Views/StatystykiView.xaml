@@ -1,0 +1,302 @@
+﻿<UserControl x:Class="MVVMFirma.Views.statystykiView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVMFirma.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="MainWindowResources.xaml"/>
+    </UserControl.Resources>
+    <ScrollViewer>
+
+        <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+    
+        <Grid   Grid.Column="0" Grid.Row="0" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Image  Grid.Column="0" Grid.Row="0" Source="/MVVMFirma;component/Content/Grafika/graph-analysis.png" Style="{StaticResource imageStyleTop}" />
+            <Label  Grid.Column="1" Grid.Row="0"  Content="Statystyka" Style="{StaticResource LabelBig}" />
+
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240" /> <!--lewa-->
+                <ColumnDefinition Width="240"  /> <!--srodek-->
+                <ColumnDefinition Width="240"  /> <!--prawa-->
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+            <Border Grid.Column="0" Grid.Row="0"  Style="{StaticResource BorderStyleStat}">
+                <StackPanel>
+                <Label  Content="Najlepiej sprzedające sie Marki" Style="{StaticResource LabelNormal }" />
+
+                    <!--lista stat-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="20" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition /> <!--5 najlepszych-->
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="1" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="0" Content="Audi" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="2" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="1" Content="Citroen" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="3" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="2" Content="BMW" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="4" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="3" Content="Ford" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="4" Content="5" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="4" Content="Fiat" Style="{StaticResource LabelMin }" />
+
+
+                    </Grid>
+                    <!--koniec lista stat-->
+                </StackPanel>
+            </Border>
+            
+          <!--dwa-->
+
+            <Border Grid.Column="1" Grid.Row="0"  Style="{StaticResource BorderStyleStat}">
+                <StackPanel>
+                    <Label  Content="Najlepiej sprzedające sie Modele" Style="{StaticResource LabelNormal }" />
+
+                    <!--lista stat-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="20" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <!--5 najlepszych-->
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="1" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="0" Content="Passat" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="2" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="1" Content="A4" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="3" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="2" Content="X3" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="4" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="3" Content="Fiesta" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="4" Content="5" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="4" Content="500" Style="{StaticResource LabelMin }" />
+
+
+                    </Grid>
+                    <!--koniec lista stat-->
+                </StackPanel>
+            </Border>
+            <!--trzy-->
+           
+            <Border Grid.Column="2" Grid.Row="0" Grid.RowSpan="2"  Style="{StaticResource BorderStyleStat}">
+                <StackPanel>
+                    <Label  Content="Najpopularniejsze rodzaje:" Style="{StaticResource LabelNormal }" />
+
+                    <!--lista stat-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="20" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <!--5 najlepszych-->
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="1" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="0" Content="Sedan" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="2" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="1" Content="Kompakt" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="3" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="2" Content="SUV" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="4" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="3" Content="Kombi" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="4" Content="5" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="4" Content="Kabrio" Style="{StaticResource LabelMin }" />
+
+
+                    </Grid>
+                    <!--koniec lista stat-->
+                </StackPanel>
+            </Border>
+
+            
+            <!--2 wiersz  1k-->
+
+            <Border Grid.Column="2" Grid.Row="1" Grid.RowSpan="2"  Style="{StaticResource BorderStyleStat}">
+                <StackPanel>
+                    <Label  Content="Najlepsza Lokalizacja:" Style="{StaticResource LabelNormal }" />
+
+                    <!--lista stat-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="20" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <!--5 najlepszych-->
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="1" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="0" Content="Warszawa WAWA12" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="2" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="1" Content="Tarnów TAR7" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="3" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="2" Content="Nowy Sącz NSACZ8" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="4" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="3" Content="Warszawa WAWA9" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="4" Content="5" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="4" Content="Rzeszów RZE1" Style="{StaticResource LabelMin }" />
+
+
+                    </Grid>
+                    <!--koniec lista stat-->
+                </StackPanel>
+            </Border>
+
+            <!--2 wiersz  1k-->
+
+            <Border Grid.Column="1" Grid.Row="1" Grid.RowSpan="2"  Style="{StaticResource BorderStyleStat}">
+                <StackPanel>
+                    <Label  Content="Najpopularniejsze rodzaje:" Style="{StaticResource LabelNormal }" />
+
+                    <!--lista stat-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="20" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <!--5 najlepszych-->
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="1" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="0" Content="Sedan" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="2" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="1" Content="Kompakt" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="3" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="2" Content="SUV" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="4" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="3" Content="Kombi" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="4" Content="5" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="4" Content="Kabrio" Style="{StaticResource LabelMin }" />
+
+
+                    </Grid>
+                    <!--koniec lista stat-->
+                </StackPanel>
+            </Border>
+
+            <!--2 wiersz  0k-->
+
+            <Border Grid.Column="0" Grid.Row="1" Grid.RowSpan="2"  Style="{StaticResource BorderStyleStat}">
+                <StackPanel>
+                    <Label  Content="Ostatnio sprzedane auta:" Style="{StaticResource LabelNormal }" />
+
+                    <!--lista stat-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="20" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <!--5 najlepszych-->
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="1" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="0" Content="Audi A8 4.2 diesel 2014" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="2" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="1" Content="Ford Focus 1.6 benzyna 2010" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="3" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="2" Content="Ford Galaxy 2.0 benzyna 2012" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="4" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="3" Content="BMW X3 2.0 diesel 2004" Style="{StaticResource LabelMin }" />
+
+                        <Label Grid.Column="0" Grid.Row="4" Content="5" Style="{StaticResource LabelMin }" />
+                        <Label Grid.Column="2" Grid.Row="4" Content="Mazda MX-6 1.6 benzyna 2002" Style="{StaticResource LabelMin }" />
+
+
+                    </Grid>
+                    <!--koniec lista stat-->
+                </StackPanel>
+            </Border>
+
+        </Grid>
+          
+
+        </Grid>
+    </ScrollViewer>
+</UserControl>

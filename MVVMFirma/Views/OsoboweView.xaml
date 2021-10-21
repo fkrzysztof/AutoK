@@ -1,0 +1,254 @@
+﻿<UserControl x:Class="MVVMFirma.Views.OsoboweView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVMFirma.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="1000">
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="MainWindowResources.xaml"/>
+    </UserControl.Resources>
+
+    <ScrollViewer>
+
+            <Grid Grid.Row="1" Margin="0,10,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="34"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <ToolBar Grid.Row="0" Margin="0,2,0,2" Height="30">
+                    <Button Width="30" Height="50" Command="{Binding AddCommand}" >
+                        <Image Source="/MVVMFirma;component/Content/Icons/plus-symbol.png"  />
+                    </Button>
+                    <Button Width="30" Height="50" Command="{Binding AddCommand}" >
+                        <Image Source="/MVVMFirma;component/Content/Icons/multiply.png"  />
+                    </Button>
+                    <Button Width="30" Height="50" Command="{Binding AddCommand}" >
+                        <Image Source="/MVVMFirma;component/Content/Icons/edit.png"  />
+                    </Button>
+                <Button Width="30" Height="50" Command="{Binding LoadCommand}" >
+                        <Image Source="/MVVMFirma;component/Content/Icons/refreshPage.png"  />
+                    </Button>
+                    <!--<ToggleButton Content="x" Width="30" Height="50"/>
+                            <ToggleButton Content="M" Width="30" Height="50"/>-->
+                </ToolBar>
+
+            <!--w expanderze filtrowanie wynikow-->
+            <Expander Grid.Row="1" Margin="0,2,0,2">
+
+                <Grid  Margin="5" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="15" />
+                        <ColumnDefinition  Width="auto"/>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="15" />
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="15" />
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="15" />
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="80"/>
+
+
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="30" />
+                        <RowDefinition Height="30" />
+                        <RowDefinition Height="30" />
+                        <RowDefinition Height="30" />
+                    </Grid.RowDefinitions>
+
+
+
+                    <Button Content="Sortuj" Grid.Row="5" Grid.Column="13" 
+                                        Command="{Binding SortCommand}"/>
+
+                    <Label Grid.Row="0" Grid.Column="0" Content="Marka" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="0" Grid.Column="1" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding MarkaComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectMarka, Mode=TwoWay}"/>
+
+                    <Label Grid.Row="0" Grid.Column="3" Content="Model:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="0" Grid.Column="4" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding ModelComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectModel, Mode=TwoWay}"/>
+                    
+                    <Label Grid.Row="0" Grid.Column="9" Content="Rok Prod. od:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DatePicker Grid.Row="0" Grid.Column="10"  Style="{StaticResource DatePickerStyle}" 
+                                     SelectedDate="{Binding Path=SelectDataOd, 
+                                     UpdateSourceTrigger=PropertyChanged}"  />
+                   
+                    <Label Grid.Row="0" Grid.Column="12" Content="Rok Prod. do:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DatePicker Grid.Row="0" Grid.Column="14" Style="{StaticResource DatePickerStyle}" 
+                                     SelectedDate="{Binding Path=SelectDataDo, 
+                                     UpdateSourceTrigger=PropertyChanged}" />
+
+                    
+                    <Label Grid.Row="1" Grid.Column="6" Content="Rodzaj Paliwa:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="1" Grid.Column="7" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding RodzajPaliwaComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectRodzajPaliwa, Mode=TwoWay}"/>
+                    
+
+
+                    <Label Grid.Row="1" Grid.Column="0" Content="Klimatyzacja:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="1" Grid.Column="1" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding KlimatyzacjaComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectKlimatyzacja, Mode=TwoWay}"/>
+
+                                        
+                    <Label Grid.Row="3" Grid.Column="9" Content="Moc (KM) od:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DockPanel VerticalAlignment="Center" Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="4" >
+                        <TextBox Text="{Binding ElementName=SliderMocOd, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Left" TextAlignment="Right" Width="40" Style="{StaticResource TextBoxStyle}"  />
+                        <Slider Margin="5,0,5,0" Minimum="20" Maximum="500" TickPlacement="BottomRight" TickFrequency="5" IsSnapToTickEnabled="True" Name="SliderMocOd" 
+                                    Value="{Binding Path=SelectMocOd, Mode=TwoWay}" />
+                    </DockPanel>
+                    
+                                                            
+                    <Label Grid.Row="4" Grid.Column="9" Content="Moc (KM) do:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DockPanel VerticalAlignment="Center" Grid.Row="4" Grid.Column="10" Grid.ColumnSpan="4" >
+                        <TextBox Text="{Binding ElementName=SliderMocDo, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Left" TextAlignment="Right" Width="40" Style="{StaticResource TextBoxStyle}"   />
+                        <Slider Margin="5,0,5,0" Minimum="70" Maximum="500" TickPlacement="BottomRight" TickFrequency="5" IsSnapToTickEnabled="True" Name="SliderMocDo" 
+                                    Value="{Binding Path=SelectMocDo, Mode=TwoWay}" />
+                    </DockPanel>
+                        
+                    
+                    <Label Grid.Row="2" Grid.Column="9" Content="Pojemność (cm3) do:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DockPanel VerticalAlignment="Center" Grid.Row="2" Grid.Column="10" Grid.ColumnSpan="4" >
+                        <TextBox Text="{Binding ElementName=SliderPojemnoscDo, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Left" TextAlignment="Right" Width="40" Style="{StaticResource TextBoxStyle}"   />
+                        <Slider Margin="5,0,5,0" Minimum="1000" Maximum="5000" TickPlacement="BottomRight" TickFrequency="5" IsSnapToTickEnabled="True" Name="SliderPojemnoscDo" 
+                                      Value="{Binding Path=SelectMocOd, Mode=TwoWay}" />
+                    </DockPanel>
+                                        
+                    <Label Grid.Row="1" Grid.Column="9" Content="Pojemność (cm3) od:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DockPanel VerticalAlignment="Center" Grid.Row="1" Grid.Column="10" Grid.ColumnSpan="5" >
+                        <TextBox Text="{Binding ElementName=SliderPojemnoscOd, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Left" TextAlignment="Right" Width="40" Style="{StaticResource TextBoxStyle}"   />
+                        <Slider Margin="5,0,5,0" Minimum="50" Maximum="4000" TickPlacement="BottomRight" TickFrequency="5" IsSnapToTickEnabled="True" Name="SliderPojemnoscOd" 
+                                    Value="{Binding Path=SelectPojemnoscOd, Mode=TwoWay}" SmallChange="50" />
+                    </DockPanel>
+                    
+                    
+
+
+                    <Label Grid.Row="0" Grid.Column="6" Content="Typ:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="0" Grid.Column="7" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding DokladnyTypComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectDokladnyTyp, Mode=TwoWay}"/>
+
+
+
+
+                    <Label Grid.Row="2" Grid.Column="0" Content="Przebieg od:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="2" Grid.Column="1" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding PrzebiegComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectPrzebiegOd, Mode=TwoWay}"/>
+                   
+                    <Label Grid.Row="2" Grid.Column="3" Content="Przebieg do:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="2" Grid.Column="4" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding PrzebiegComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectPrzebiegDo, Mode=TwoWay}"/>
+
+
+                    <Label Grid.Row="1" Grid.Column="3" Content="Lokalizacja:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="1" Grid.Column="4" Style="{StaticResource ComboBoxStyle}" 
+                                    ItemsSource="{Binding KomisComboboxItems}"
+                                    SelectedValue="{Binding Path=SelectKomis, Mode=TwoWay}"/>
+
+                    <!--<Label Grid.Row="1" Grid.Column="12" Content="Skrzynia Biegów" 
+                   Style="{StaticResource LabelNormal}" />
+                    <ComboBox Grid.Row="1" Grid.Column="13" Style="{StaticResource ComboBoxStyle }">
+                        <ComboBoxItem Content="Manualna" />
+                        <ComboBoxItem Content="Automatyczna" />
+                    </ComboBox>-->
+
+
+                    <Label Grid.Row="3" Grid.Column="0" Content="Cena (PLN) od:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DockPanel VerticalAlignment="Center" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="4" >
+                        <TextBox Text="{Binding ElementName=SliderCenaOd, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Left" TextAlignment="Right" Width="40" Style="{StaticResource TextBoxStyle}"  />
+                        <Slider Margin="5,0,5,0" Minimum="2000" Maximum="50000" TickPlacement="BottomRight" TickFrequency="5" IsSnapToTickEnabled="True" Name="SliderCenaOd" 
+                                    Value="{Binding Path=SelectCenaOd, Mode=TwoWay}" />
+                    </DockPanel>
+
+
+                    <Label Grid.Row="4" Grid.Column="0" Content="Cena (PLN) do:" 
+                   Style="{StaticResource LabelNormal}" />
+                    <DockPanel VerticalAlignment="Center" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="4" >
+                        <TextBox Text="{Binding ElementName=SliderCenaDo, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Left" TextAlignment="Right" Width="40" Style="{StaticResource TextBoxStyle}"   />
+                        <Slider Margin="5,0,5,0" Minimum="5000" Maximum="100000" TickPlacement="BottomRight" TickFrequency="5" IsSnapToTickEnabled="True" Name="SliderCenaDo" 
+                                    Value="{Binding Path=SelectCenaDo, Mode=TwoWay}" />
+                    </DockPanel>
+
+                </Grid>
+            </Expander>
+
+
+            <TabControl Grid.Column="0" Grid.Row="2">
+                    <TabItem Header="Wszystkie">
+                        <Grid>
+                        <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding List}"  SelectedItem="{Binding Path=WybranyPojazd, Mode=TwoWay}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn x:Name="IdPojazdu" Binding="{Binding Path=IdPojazdu}" Header="Id Pojazdu"/>
+                                    <DataGridTextColumn x:Name="PojazdMarka" Binding="{Binding Path=PojazdMarka}" Header="Marka"/>
+                                    <DataGridTextColumn x:Name="PojazdModel" Binding="{Binding Path=PojazdModel}" Header="Model"/>
+                                    <DataGridTextColumn x:Name="RokProdukcji" Binding="{Binding Path=RokProdukcji}" Header="RokProdukcji"/>
+                                    <DataGridTextColumn x:Name="PierwszaRejestracja" Binding="{Binding Path=PierwszaRejestracja}" Header="PierwszaRejestracja"/>
+                                    <DataGridTextColumn x:Name="PojazdNazwaKomisu" Binding="{Binding Path=PojazdNazwaKomisu}" Header="PojazdNazwaKomisu"/>
+                                    <DataGridTextColumn x:Name="Pojemnosc" Binding="{Binding Path=Pojemnosc}" Header="Pojemnosc"/>
+                                    <DataGridTextColumn x:Name="PojazdDokladnytyp" Binding="{Binding Path=PojazdDokladnytyp}" Header="PojazdDokladnytyp"/>
+                                    <DataGridTextColumn x:Name="PojazdTypSilnika" Binding="{Binding Path=PojazdTypSilnika}" Header="PojazdTypSilnika"/>
+                                    <DataGridTextColumn x:Name="Przebieg" Binding="{Binding Path=Przebieg}" Header="Przebieg"/>
+                                    <DataGridTextColumn x:Name="PojazdKolor" Binding="{Binding Path=PojazdKolor}" Header="PojazdKolor"/>
+                                    <DataGridTextColumn x:Name="NrVIN" Binding="{Binding Path=NrVIN}" Header="NrVIN"/>
+                                    <DataGridTextColumn x:Name="Wypadkowy" Binding="{Binding Path=Wypadkowy}" Header="Wypadkowy"/>
+                                    <DataGridTextColumn x:Name="DataPrzyjecia" Binding="{Binding Path=DataPrzyjecia}" Header="DataPrzyjecia"/>
+                                    <DataGridTextColumn x:Name="DataWydania" Binding="{Binding Path=DataWydania}" Header="DataWydania"/>
+                                    <DataGridTextColumn x:Name="CzyZarezerowany" Binding="{Binding Path=CzyZarezerowany}" Header="CzyZarezerowany"/>
+                                    <DataGridTextColumn x:Name="NrRejestracyjny" Binding="{Binding Path=NrRejestracyjny}" Header="NrRejestracyjny"/>
+                                    <DataGridTextColumn x:Name="Pochodzenie" Binding="{Binding Path=Pochodzenie}" Header="Pochodzenie"/>
+                                    <DataGridTextColumn x:Name="MocKM" Binding="{Binding Path=MocKM}" Header="MocKM"/>
+                                    <DataGridTextColumn x:Name="SkrzyniaBiegów" Binding="{Binding Path=SkrzyniaBiegów}" Header="SkrzyniaBiegów"/>
+                                    <DataGridTextColumn x:Name="Naped" Binding="{Binding Path=Naped}" Header="Naped"/>
+                                    <DataGridTextColumn x:Name="LiczbaDrzwi" Binding="{Binding Path=LiczbaDrzwi}" Header="LiczbaDrzwi"/>
+                                    <DataGridTextColumn x:Name="LiczbaMiejsc" Binding="{Binding Path=LiczbaMiejsc}" Header="LiczbaMiejsc"/>
+                                    <DataGridTextColumn x:Name="ZarezerwowanyWPolsce" Binding="{Binding Path=ZarezerwowanyWPolsce}" Header="ZarezerwowanyWPolsce"/>
+                                    <DataGridTextColumn x:Name="SerwisowanyWASO" Binding="{Binding Path=SerwisowanyWASO}" Header="SerwisowanyWASO"/>
+                                    <DataGridTextColumn x:Name="PojazdCena" Binding="{Binding Path=PojazdCena}" Header="PojazdCena"/>
+                                    <DataGridTextColumn x:Name="PojazdKlimatyzacja" Binding="{Binding Path=PojazdKlimatyzacja}" Header="PojazdKlimatyzacja"/>
+                                    <DataGridTextColumn x:Name="Lokalizacja" Binding="{Binding Path=PojazdMiastoKomisu}" Header="Lokalizacja"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </Grid>
+                    </TabItem>
+                </TabControl>
+
+
+
+            </Grid>
+
+    </ScrollViewer>
+</UserControl>

@@ -1,0 +1,350 @@
+﻿<UserControl x:Class="MVVMFirma.Views.DodajOsoboweView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVMFirma.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="MainWindowResources.xaml"/>
+    </UserControl.Resources>
+    <ScrollViewer>
+    <Grid Background="white">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" /> <!--prawa strona-->
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition  Height="auto"/>
+            <RowDefinition  Height="auto"/>
+            <RowDefinition  Height="auto"/>
+            <RowDefinition  Height="auto"/>
+            <RowDefinition />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        
+        <!--pierwszy-->
+
+        <Grid Grid.Row="0"  Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Image  Grid.Column="0" Grid.Row="0" Source="/MVVMFirma;component/Content/Grafika/checked-car.png" Style="{StaticResource imageStyleTop}" />
+                <Label  Grid.Column="1" Grid.Row="0"  Content="Dodaj samochów osobowy" Style="{StaticResource LabelBig}" />
+
+            </Grid>
+
+            <!--<Label Content="Dodaj samochów osobowy" Style="{StaticResource LabelBig}" />-->
+        </Grid>
+<!--zdjecia-->
+        <Expander Grid.Row="1" IsEnabled="True" Header="Zdjęcia" Margin="5" IsExpanded="True" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <Image Grid.Column="0" Grid.Row="0" Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="1" Grid.Row="0"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="2" Grid.Row="0"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="3" Grid.Row="0"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="4" Grid.Row="0"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="5" Grid.Row="0"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="6" Grid.Row="0"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+
+                <Image Grid.Column="0" Grid.Row="1" Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="1" Grid.Row="1"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="2" Grid.Row="1"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="3" Grid.Row="1"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="4" Grid.Row="1"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="5" Grid.Row="1"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+                <Image Grid.Column="6" Grid.Row="1"  Source="/MVVMFirma;component/Content/Grafika/galeria_brak.jpg" Width="140"   />
+
+                <Button Grid.Column="0" Grid.Row="2" Content="Dodaj Zdjecia" Style="{StaticResource ButtonStyleLeftMenu}" />
+
+            </Grid>
+        </Expander>
+<!--Koniec zdjecia-->
+
+
+<!--to jest pole glowych cech-->
+        <Grid  Grid.Row="2"  Margin="5" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="15" />
+                <ColumnDefinition  Width="auto"/>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="15" />
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="15" />
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="15" />
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30" />
+                <RowDefinition Height="30" />
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Content="Marka" 
+                   Style="{StaticResource LabelNormal}" />
+            <ComboBox Grid.Row="0" Grid.Column="1" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" >
+                <ComboBoxItem Content="Wybierz" />
+                <ComboBoxItem Content="Audi" />
+                <ComboBoxItem Content="BMW" />
+                <ComboBoxItem Content="OPEL" />
+                <ComboBoxItem Content="VW" />
+                <ComboBoxItem Content="SUZUKI" />
+                <ComboBoxItem Content="FORD" />
+                <ComboBoxItem Content="FIAT" />
+                <ComboBoxItem Content="SMART" />
+                <ComboBoxItem Content="CITROEN" />
+                <ComboBoxItem Content="VOLVO" />
+                <ComboBoxItem Content="RENAULT" />
+            </ComboBox>
+
+            <Label Grid.Row="0" Grid.Column="3" Content="Model:" 
+                   Style="{StaticResource LabelNormal}" />
+            <ComboBox Grid.Row="0" Grid.Column="4" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}"  >
+                <ComboBoxItem Content="Wybierz" />
+                <ComboBoxItem Content="Audi" />
+                <ComboBoxItem Content="BMW" />
+                <ComboBoxItem Content="OPEL" />
+                <ComboBoxItem Content="VW" />
+                <ComboBoxItem Content="SUZUKI" />
+                <ComboBoxItem Content="FORD" />
+                <ComboBoxItem Content="FIAT" />
+                <ComboBoxItem Content="SMART" />
+                <ComboBoxItem Content="CITROEN" />
+                <ComboBoxItem Content="VOLVO" />
+                <ComboBoxItem Content="RENAULT" />
+            </ComboBox>
+            <Label Grid.Row="0" Grid.Column="6" Content="Pierwsza Rejestracja:" 
+                   Style="{StaticResource LabelNormal}" />
+            <ComboBox Grid.Row="0" Grid.Column="10" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}"  >
+                <ComboBoxItem Content="Wybierz" />
+                <ComboBoxItem Content="do 50 000" />
+                <ComboBoxItem Content="50000 - 100000" />
+                <ComboBoxItem Content="100000 - 150000" />
+                <ComboBoxItem Content="150000 - 200000" />
+                <ComboBoxItem Content="200000 - 250000" />
+                <ComboBoxItem Content="powyżej 3000000" />
+
+            </ComboBox>
+            <Label Grid.Row="0" Grid.Column="9" Content="Przebieg:" 
+                   Style="{StaticResource LabelNormal}" />
+            <ListBox Grid.Row="0" Grid.Column="7" Style="{StaticResource ListBoxStyle}" >
+                <ListBoxItem Content="2018" />
+                <ListBoxItem Content="2017" />
+                <ListBoxItem Content="2016" />
+                <ListBoxItem Content="2015" />
+                <ListBoxItem Content="2014" />
+                <ListBoxItem Content="2013" />
+                <ListBoxItem Content="2012" />
+                <ListBoxItem Content="2011" />
+            </ListBox>
+            <Label Grid.Row="0" Grid.Column="12" Content="CENA" 
+                   Style="{StaticResource LabelNormal}" />
+            <TextBox Grid.Row="0" Grid.Column="13" Text="wpisz"
+                   Style="{StaticResource TextBoxStyle }" />
+
+
+            <Label Grid.Row="1" Grid.Column="0" Content="Rodzaj Paliwa" 
+                   Style="{StaticResource LabelNormal}" />
+            <ComboBox Grid.Row="1" Grid.Column="1" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" >
+                <ComboBoxItem Content="Wybierz" />
+                <ComboBoxItem Content="Benzyna" />
+                <ComboBoxItem Content="Diesel" />
+                <ComboBoxItem Content="Benzyna + LPG" />
+                <ComboBoxItem Content="Hybryda" />
+                <ComboBoxItem Content="Elektryczny" />
+            </ComboBox>
+            <Label Grid.Row="1" Grid.Column="3" Content="VIM:" 
+                   Style="{StaticResource LabelNormal}" />
+            <TextBox Grid.Row="1" Grid.Column="4" Text="wpisz"
+                   Style="{StaticResource TextBoxStyle }" />
+            <Label Grid.Row="1" Grid.Column="6" Content="Kolor" 
+                   Style="{StaticResource LabelNormal}" />
+            <ComboBox Grid.Row="1" Grid.Column="7" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" >
+                <ComboBoxItem Content="Wybierz" />
+                <ComboBoxItem Content="Fajny" />
+                <ComboBoxItem Content="Niefajny" />
+                <ComboBoxItem Content="Nie wiem" />
+            </ComboBox>
+            <Label Grid.Row="1" Grid.Column="9" Content="Typ:" 
+                   Style="{StaticResource LabelNormal}" />
+            <ComboBox Grid.Row="1" Grid.Column="10" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" >
+                <ComboBoxItem Content="Małe" />
+                <ComboBoxItem Content="Kompakt" />
+                <ComboBoxItem Content="Sedan" />
+                <ComboBoxItem Content="Kombi" />
+                <ComboBoxItem Content="Minivan" />
+                <ComboBoxItem Content="SUV" />
+                <ComboBoxItem Content="Kabriolet" />
+                <ComboBoxItem Content="Coupe" />
+            </ComboBox>
+
+                     <Label Grid.Row="1" Grid.Column="12" Content="Klimatyzacja:" 
+                   Style="{StaticResource LabelNormal}" />
+            <ComboBox Grid.Row="1" Grid.Column="13" SelectedIndex="0" Style="{StaticResource ComboBoxStyle}" >
+                <ComboBoxItem Content="Wybierz" />
+                <ComboBoxItem Content="Brak" />
+                <ComboBoxItem Content="Automatyczna" />
+                <ComboBoxItem Content="Automatyczna 2 strefowa" />
+                <ComboBoxItem Content="Automatyczna 4 strefowa" />
+            </ComboBox>
+
+            
+            
+        </Grid>
+<!-- Koniec to jest pole glowych cech-->
+
+<!--to jest pole wyposazenie-->
+      
+        <Grid Grid.Row="3" Margin="5" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <!--<ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>-->
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+            <CheckBox Grid.Column="0" Grid.Row="0" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="ABS"  Grid.Column="1" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="2" Grid.Row="0" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Alufelgi"  Grid.Column="3" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="4" Grid.Row="0" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Bluetooth"  Grid.Column="5" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="6" Grid.Row="0" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Centralny zamek"  Grid.Column="7" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="8" Grid.Row="0" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Czujnik deszczu"  Grid.Column="9" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="10" Grid.Row="0" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Elektrycznie sterowane lusterka boczne"  Grid.Column="11" Grid.Row="0" Style="{StaticResource LabelMin}"/>
+
+            
+            
+            <CheckBox Grid.Column="0" Grid.Row="1" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Asystent pasa ruchu"  Grid.Column="1" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="2" Grid.Row="1" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="System nawigacji"  Grid.Column="3" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="4" Grid.Row="1" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Komputer pokładowy"  Grid.Column="5" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="6" Grid.Row="1" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Kontrola trakcji"  Grid.Column="7" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="8" Grid.Row="1" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Isofix"  Grid.Column="9" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="10" Grid.Row="1" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Zestaw głośnomówiący"  Grid.Column="11" Grid.Row="1" Style="{StaticResource LabelMin}"/>
+
+
+            
+            <CheckBox Grid.Column="0" Grid.Row="2" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Asystent pasa ruchu"  Grid.Column="1" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="2" Grid.Row="2" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="System nawigacji"  Grid.Column="3" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="4" Grid.Row="2" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Komputer pokładowy"  Grid.Column="5" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="6" Grid.Row="2" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Kontrola trakcji"  Grid.Column="7" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="8" Grid.Row="2" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Isofix"  Grid.Column="9" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+            <CheckBox Grid.Column="10" Grid.Row="2" Style="{StaticResource CheckBoxStyle}"/>
+            <Label Content="Zestaw głośnomówiący"  Grid.Column="11" Grid.Row="2" Style="{StaticResource LabelMin}"/>
+
+
+
+        </Grid>
+      
+        
+        
+<!--Koniec to jest pole wyposazenie-->
+        
+        
+<!--pole zapisz-->
+
+        <Grid Grid.Row="4"  Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Button Content="Zapisz" Style="{StaticResource ButtonStyleLeftMenu }" />
+        </Grid>
+
+        <!--Koniec pola zapisz-->
+        
+        <!--prawa strona-->
+
+        <Grid Grid.Row="0" Grid.Column="1" Grid.RowSpan="6"  Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+
+            <Label  Grid.Row="0" Grid.Column="0" Content="Opis" Style="{StaticResource LabelNormal}" />
+            <TextBox Grid.Row="1" Grid.Column="0" Height="340" />
+        </Grid>
+
+        <!--konie prawa strona-->
+        
+        
+        
+        <!--pierwszy koniec -->
+    </Grid>
+    </ScrollViewer>
+</UserControl>
